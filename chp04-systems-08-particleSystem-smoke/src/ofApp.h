@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ParticleSystem.h"
+#include "particleSystem.h"
 
 class ofApp : public ofBaseApp{
 
